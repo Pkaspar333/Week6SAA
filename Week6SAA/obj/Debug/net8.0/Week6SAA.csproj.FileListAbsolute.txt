@@ -1,0 +1,14 @@
+C:\Users\Kaspar P\source\repos\Week6SAA\Week6SAA\bin\Debug\net8.0\Week6SAA.exe
+C:\Users\Kaspar P\source\repos\Week6SAA\Week6SAA\bin\Debug\net8.0\Week6SAA.deps.json
+C:\Users\Kaspar P\source\repos\Week6SAA\Week6SAA\bin\Debug\net8.0\Week6SAA.runtimeconfig.json
+C:\Users\Kaspar P\source\repos\Week6SAA\Week6SAA\bin\Debug\net8.0\Week6SAA.dll
+C:\Users\Kaspar P\source\repos\Week6SAA\Week6SAA\bin\Debug\net8.0\Week6SAA.pdb
+C:\Users\Kaspar P\source\repos\Week6SAA\Week6SAA\obj\Debug\net8.0\Week6SAA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaspar P\source\repos\Week6SAA\Week6SAA\obj\Debug\net8.0\Week6SAA.AssemblyInfoInputs.cache
+C:\Users\Kaspar P\source\repos\Week6SAA\Week6SAA\obj\Debug\net8.0\Week6SAA.AssemblyInfo.cs
+C:\Users\Kaspar P\source\repos\Week6SAA\Week6SAA\obj\Debug\net8.0\Week6SAA.csproj.CoreCompileInputs.cache
+C:\Users\Kaspar P\source\repos\Week6SAA\Week6SAA\obj\Debug\net8.0\Week6SAA.dll
+C:\Users\Kaspar P\source\repos\Week6SAA\Week6SAA\obj\Debug\net8.0\refint\Week6SAA.dll
+C:\Users\Kaspar P\source\repos\Week6SAA\Week6SAA\obj\Debug\net8.0\Week6SAA.pdb
+C:\Users\Kaspar P\source\repos\Week6SAA\Week6SAA\obj\Debug\net8.0\Week6SAA.genruntimeconfig.cache
+C:\Users\Kaspar P\source\repos\Week6SAA\Week6SAA\obj\Debug\net8.0\ref\Week6SAA.dll
